@@ -18,10 +18,10 @@ function App() {
                 <p>
                     <code>and.rew.gold/berg</code>
                 </p>
-                <body>
+                <div>
                     <SocialIcon bgColor="transparent" url="https://www.linkedin.com/in/andrew-goldberg-06744a233/" />
                     <SocialIcon bgColor="transparent" url="https://github.com/ordrew/" />
-                </body>
+                </div>
             </header>
         </div>
     );
