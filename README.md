@@ -21,5 +21,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### sudo rm -r /var/www/rew.gold
-### sudo mv /dev/www/build/* /var/www/rew.gold
+### sudo rm -r /var/www/rew.gold/*
+### sudo mv build/* /var/www/rew.gold
